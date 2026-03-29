@@ -19,7 +19,7 @@ I have used Customer churn dataset which contains 88167 rows and 12 columns were
 
  4.Train-Test Split:
  
-- Split dataset into training and testing sets (80% training, 20% testing)
+ -Split dataset into training and testing sets (80% training, 20% testing)
 
 # Models Used
 - Logistic Regression

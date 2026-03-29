@@ -22,10 +22,20 @@ I have used Customer churn dataset which contains 88167 rows and 12 columns were
  -Split dataset into training and testing sets (80% training, 20% testing)
 
 # Models Used
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- Gradient Boosting
+
+In this project, different machine learning models were used to predict whether a customer will churn or not.
+
+1. Logistic Regression
+Logistic Regression was used as a starting point (baseline model). It is simple and easy to understand, and it helped in getting an initial idea of how the features are related to churn.
+
+2. Decision Tree
+Decision Tree was used to capture more complex patterns in the data. It works by splitting the data based on conditions, which makes it easy to visualize and understand how decisions are made.
+
+3. Random Forest
+Random Forest is an improved version of Decision Tree. Instead of relying on a single tree, it uses multiple trees and combines their results. This helps in getting better accuracy and reduces the chances of overfitting.
+
+4. Gradient Boosting
+Gradient Boosting is a more advanced model that builds trees step by step, learning from previous mistakes. It performed the best in this project because it was able to capture complex relationships in the data more effectively.
 
 # Model Evaluation
 - Accuracy

@@ -54,7 +54,12 @@ I have used Customer churn dataset which contains 88167 rows and 12 columns were
 - Rule accuracy was around 50%, which is much lower than ML models
 - This highlights the advantage of machine learning in capturing complex patterns
 
-# visualization techniques were performed
+# visualization:
+- Model Accuracy Comparison
+- Model Accuracy Comparison
+- ROC Curve
+- Feature Importance Plot
+- Correlation Heatmap
 
 # conclusion Conclusion
 This project shows a complete machine learning pipeline for customer churn prediction.
